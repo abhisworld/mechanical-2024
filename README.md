@@ -1,2 +1,2 @@
-# mechanical-2024
+# portfolio
 IITISM'24
